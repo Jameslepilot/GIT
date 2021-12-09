@@ -1,6 +1,5 @@
 import estoesunaprueba
 
 def test_pruebas():
-    assert estoesunaprueba.numba1() == 2
-    assert estoesunaprueba.numba2() == 6
-    assert estoesunaprueba.numba3() == "HOLA"
+    assert estoesunaprueba.suma(4, 1) == 5
+    assert estoesunaprueba.resta(5, 1) == 4

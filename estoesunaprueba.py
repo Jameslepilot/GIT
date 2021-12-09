@@ -1,3 +1,8 @@
-numba1 = 1+1
-numba2 = 5+1
-numba3 = input("hey")
+def suma(numero1, numero2):
+    return numero1 + numero2
+    # suma
+
+
+def resta(numero1, numero2):
+    return numero1 - numero2
+    # resta
