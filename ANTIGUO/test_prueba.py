@@ -1,4 +1,4 @@
-import ANTIGUO.estoesunaprueba as estoesunaprueba
+import estoesunaprueba as estoesunaprueba
 
 def test_pruebas():
     assert estoesunaprueba.suma(4, 1) == 5
