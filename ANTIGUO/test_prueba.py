@@ -9,4 +9,3 @@ def test_pruebas():
     assert estoesunaprueba.suma(5, 1) == 6
     assert estoesunaprueba.suma(5, -2) == 3
     assert estoesunaprueba.resta(5, -20) == 25
-
