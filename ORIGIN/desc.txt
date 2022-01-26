@@ -1,5 +1,0 @@
---------OBJETIVO--------
-
-Rehacer todos los ejercicios de python hasta la fecha e integrarlos en github
-
-opcional: hacerles a todos pytest y CircleCI
